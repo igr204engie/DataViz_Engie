@@ -5,7 +5,10 @@
 - Alba Ordonez
 - Karine Petrus
 - Charles Therond
-- Ioan Catana
 - Stéphane Mulard
+- Ioan Catana
 
 ## Contenu du dossier :
+
+- Poster: Poster-Dashboard-Engie-VF.pdf
+
